@@ -1,0 +1,6 @@
+¿Por qué es valioso el software de código abierto?
+El software de código abierto ofrece grandes beneficios tanto para profesionales como para empresas. Para los individuos, como científicos o ingenieros de datos, permite aprender nuevas tecnologías, conectarse con comunidades para mentoría y desarrollar habilidades, lo que ayuda en el avance profesional. Para las empresas, el código abierto fomenta la innovación al aprovechar proyectos ya existentes, reduce costos al evitar tener que desarrollar todo desde cero, y mejora la seguridad y confiabilidad del software. Además, las empresas pueden influir en la evolución tecnológica y mantenerse competitivas.
+Git y GitHub
+Git: Es un sistema de control de versiones que se utiliza para rastrear cambios en el código fuente mientras desarrollamos software. Ayuda a coordinar el trabajo entre los programadores, asegurando que todos estén alineados. Es un software de código abierto y se instala localmente en tu computadora.
+
+GitHub: Es un servicio en línea donde puedes alojar tu código, colaborar y contribuir con otros en proyectos desde cualquier lugar. No es un software, sino una plataforma que facilita la colaboración. Ofrece diferentes tipos de cuentas, desde gratuitas hasta profesionales y empresariales, lo que lo hace muy accesible para equipos de todos los tamaños.

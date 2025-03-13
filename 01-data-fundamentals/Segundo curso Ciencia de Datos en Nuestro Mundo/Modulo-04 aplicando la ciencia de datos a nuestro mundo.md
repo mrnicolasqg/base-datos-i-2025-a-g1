@@ -1,0 +1,2 @@
+Los científicos de datos han cambiado casi todas las industrias
+Sí, la ciencia de datos está en todas partes, desde la salud hasta el comercio y el entretenimiento. Se usa para predecir enfermedades, mejorar el tráfico, evaluar atletas, prevenir fraudes, optimizar anuncios, mejorar experiencias de juego y hasta encontrar pareja en redes sociales. Es una herramienta poderosa que transforma industrias y facilita la toma de decisiones basadas en datos.
