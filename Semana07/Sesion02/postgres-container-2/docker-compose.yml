@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  postgres-container-2:
+    image: postgres:latest
+    container_name: postgres-container-2
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "5434:5432"
+    volumes:
+      - postgres_data2:/var/lib/postgresql/data
+    networks:
+      - my_network
+
+volumes:
+  postgres_data2:
+
+networks:
+  my_network:
+    external: true
